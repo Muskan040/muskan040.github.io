@@ -1,0 +1,13 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2024,
+    "active": true,
+    "topFlavors": [{
+        "name": "Chocolate Mint",
+        "calories": 200,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
+        "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/chocolate-mint.svg"
+    }]
+}
