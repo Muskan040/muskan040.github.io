@@ -3,11 +3,61 @@
     "headOffice": "North Pole",
     "established": 2024,
     "active": true,
-    "topFlavors": [{
-        "name": "Chocolate Mint",
-        "calories": 200,
-        "type": "ice-cream",
-        "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
-        "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/chocolate-mint.svg"
-    }]
+    "topFlavors": [
+        {
+            "name": "Chocolate Mint",
+            "calories": 200,
+            "type": "ice-cream",
+            "ingredients": [
+                "Chocolate Syrup",
+                "Peppermint Sprinkles",
+                "Vanilla Base"
+            ],
+            "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/chocolate-mint.svg"
+        },
+        {
+            "name": "Peach Mango",
+            "calories": 250,
+            "type": "milkshake-type ice-cream",
+            "ingredients": [
+                "Peach Syrup",
+                "Mango Chunks",
+                "Vanilla Base"
+            ],
+            "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/peach-mango.svg"
+        },
+        {
+            "name": "Strawberry Sprinkle",
+            "calories": 300,
+            "type": "ice-cream",
+            "ingredients": [
+                "Strawberry Syrup",
+                "Sprinkles",
+                "Chocolate Base"
+            ],
+            "image": "https://priyansht.github.io/24W-JavaScript-03-Week11/images/strawberry-sprinkle.svg"
+        },
+        {
+            "name": "Vanilla Bean",
+            "calories": 220,
+            "type": "ice-cream",
+            "ingredients": [
+                "Vanilla Extract",
+                "Vanilla Bean Pods",
+                "Cream",
+                "Sugar"
+            ],
+            "image": "https://www.svgheart.com/wp-content/uploads/2021/11/vanilla-ice-cream-kids-summer-free-svg-file-SvgHeart.Com.png"
+        },
+        {
+            "name": "Cookies and Cream",
+            "calories": 280,
+            "type": "ice-cream",
+            "ingredients": [
+                "Crushed Chocolate Cookies",
+                "Vanilla Base"
+            ],
+            "image": "https://i.pinimg.com/474x/b3/1b/6f/b31b6f9d643cef19cddc940247d7ad07.jpg"
+        }
+    ]
 }
