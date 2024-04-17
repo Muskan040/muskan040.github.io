@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function () {
+
     var studentInfo = document.getElementById('student-info');
     var studentData = document.createElement('p');
     studentData.textContent = 'Student ID: 200555994, Name: Muskanpreet Kaur';
@@ -22,4 +22,4 @@ document.addEventListener('DOMContentLoaded', function () {
             `;
         })
         .catch(error => console.error('Error fetching movie data:', error));
-});
+
